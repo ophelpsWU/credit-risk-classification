@@ -17,7 +17,7 @@ Module 20 Challenge
   * Accuracy: 99%; Balanced Accuracy: 94%
   * Precision: 100% successful, 87% failed
   * Recall: 100% successful, 89% failed
-  * 67 failed loans were incorrectly predicted to be successful, 88 successful loans were incorrectly predicted to fail
+  * 67 failed loans were incorrectly predicted to be successful, 80 successful loans were incorrectly predicted to fail
 
 * Machine Learning Model 2 (Oversampling):
   * Training data: 56277 successful, 56277 failed
