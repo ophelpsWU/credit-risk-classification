@@ -1,8 +1,6 @@
 # credit-risk-classification
 Module 20 Challenge
 
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 * Create a predictive model to evaluate the risk to a financial institution of lending money to an individual.
